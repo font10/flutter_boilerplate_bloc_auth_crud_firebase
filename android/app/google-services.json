@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "353311343572",
+    "firebase_url": "https://prova-53d3e.firebaseio.com",
+    "project_id": "prova-53d3e",
+    "storage_bucket": "prova-53d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353311343572:android:7f575d83ab0db6467ecc41",
+        "android_client_info": {
+          "package_name": "com.example.boilerplate_auth_crud_firebase_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353311343572-f94bim1ac33li6d5donjrseqo45pv616.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTGPb1rVd8c8wC1yLyKqIIjCZ20zje60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353311343572-f94bim1ac33li6d5donjrseqo45pv616.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353311343572-a00h0n9k7fioclnnuiiuaol2vqp44evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boilerplateAuthCrudFirebaseBloc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353311343572:android:26d1021447b798617ecc41",
+        "android_client_info": {
+          "package_name": "com.example.boilerplate_auth_crud_firestore_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353311343572-f94bim1ac33li6d5donjrseqo45pv616.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTGPb1rVd8c8wC1yLyKqIIjCZ20zje60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353311343572-f94bim1ac33li6d5donjrseqo45pv616.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353311343572-a00h0n9k7fioclnnuiiuaol2vqp44evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.boilerplateAuthCrudFirebaseBloc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
