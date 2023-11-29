@@ -27,18 +27,8 @@ class Employee {
     };
   }
 
-  static fromJson(Map<String, dynamic> json){
-    return Employee(
-        name: json['name'],
-        age: json['age'],
-        work: json['work'],
-        docId: json['docId'],
-        userId: json['userId'],
-    );
-  }
-
   Employee.fromDocumentSnapshot(DocumentSnapshot<Map<String, dynamic>> doc)
-    :  name = doc.data()!["name"],
+    : name = doc.data()!["name"],
       age = doc.data()!["age"],
       work = doc.data()!["work"],
       docId = doc.data()!["docId"],
